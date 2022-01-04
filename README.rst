@@ -1,40 +1,50 @@
-AlertOps Expert Guidance
+Top 10 Reasons AlertOps is Better Than PagerDuty: #3
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+ AlertOps Pagerduty comparison – alerting flexibility
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+AlertOps offers more flexibility than our competitors when it comes to alerting capabilities – and that can mean more power for our users.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Does your incident management team have the ability to send the right messages, to the right team members, every time? If not, team members may be forced to deal with alert overload due to the sheer volume of notifications that they receive over time.  
+In many instances, an entire incident management team receives notifications. These alerts will be sent to all team members until an incident is fully resolved – despite only certain team members being required to address the incident.  
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Comparatively, AlertOps offers manual paging to help incident management teams speed up incident response and resolution. This feature enables incident management teams to: 
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+    Connect with Team Members Across a Conference Bridge: Ensures you can send a voice message or email to get team members to join a call. 
+    Send Page-Outs to Large Groups Simultaneously: Allows you to instantly send alerts or multi-modal pages to large groups or multiple teams at the same time.  
+    Send Manual Pages from a Desktop Service App: Enables you to assign group and bridge numbers from your service desk and provides in-depth status updates to your service desk in real-time.  
+    Reach Out to Specific Teams and/or Team Members in a Few Clicks: Provides pre-built templates to page out for a major incident and allows topics to be assigned to teams and/or team members. 
+    Increase Accountability Among Team Members: Keeps a record of every team member who is alerted, along with alert method, escalations and acknowledgements.     
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+PagerDuty does not provide manual paging; conversely, it only allows incident management teams to blast out alerts to all team members. This increases the risk of alert overload and alert fatigue among incident management teams.  
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Alert fatigue and alert overload are directly related. If all incident management team members are bombarded with constant notifications, alert fatigue may occur. And when alert fatigue happens, incident management teams may struggle to get the best possible results.  
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Alert fatigue generally causes incident management teams to become desensitized to notifications. It may lead some incident management team members to ignore certain alerts. Worst of all, incident management team members may start to ignore all notifications.  
 
-1 Red Canary 2021 Threat Detection Report
+If only there was a way to guarantee that incident management team members received timely, relevant alerts at all times… 
+
+Now, AlertOps provides role-based security and allows you to assign users to the following security roles of App Admin, Default, Group Manager, and Send Message.
+
+Role-based security empowers you to delegate group management. It ensures a central support team is not responsible for managing all groups, along with group members and their schedules. Instead, team member roles and message rules can be customized to meet the needs of any incident management team, at any time.  
+
+Key features of AlertOps role-based security include: 
+
+    Teams Within Teams: Teams (groups) can contain other groups, users or a combination of both. Also, you can escalate alerts across groups just as you would escalate notifications between users. 
+    On-Call Member Roles: On-call schedules allow you to configure users in either primary or secondary roles. 
+    Message Rules: With message rules, you can define how to deliver messages based on member roles; you can even configure the primary role member to receive notifications on any or all channels (voice, text, email, etc.) and the secondary or manager roles to receive emails only. Plus, message rules can be configured to send messages to any of a team’s contacts.  
+    Multiple and Overlapping Schedules: Multiple schedules can be created for any team, and you can overlap schedules as well. Additionally, schedules can be created for a specific period or can be open-ended. 
+    Team/Group Contacts: Multiple types of contacts available, and you can set up teams to have their own contact details for email, phone, text and Slack. 
+    Topic-Based Routing: You can define topics and assign topics to groups. Furthermore, any group can have multiple topics assigned to it, and any topic can be assigned to multiple groups. Topics can even be mapped into incoming integrations, which enables you to route incidents to a team based on a topic. 
+
+Clearly, role-based security can be a difference-maker for an incident management team. Thanks to AlertOps, you can use this capability to simplify and enhance your incident management.  
+
+Not yet convinced? Well, in Part 4 we discuss the difference in how AlertOps approaches Analytics.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-better-than-pagerduty-3/
 
 Read more:
 ====
